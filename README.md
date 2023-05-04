@@ -20,6 +20,8 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Palaksingh10?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="samar4saeedkhan" height="30" width="40" style="max-width: 100%;"></a>
 
+- 🤝 Here is my Portfolio <a href="https://palaksingh.dev.voyage/" target="blank"><img align="center" src="https://www.svgrepo.com/show/291476/briefcase-portfolio.svg" alt="neetugond" height="20" width="30" /></a>
+
 
 
 
